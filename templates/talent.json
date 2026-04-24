@@ -1,0 +1,186 @@
+[
+  {
+    "id": "wrestler-001",
+    "name": "El Toro Rojo",
+    "type": "wrestler",
+    "image": "https://i.pravatar.cc/150?img=11",
+    "starPower": 3.5,
+    "contract": {
+      "salary": 2500,
+      "expiresInWeeks": 52
+    },
+    "skills": {
+      "technical": 72,
+      "brawling": 68,
+      "aerial": 81,
+      "strongStyle": 55,
+      "lucha": 88,
+      "physical": 74,
+      "athleticism": 85,
+      "psychology": 70,
+      "microphone": 60,
+      "acting": 55
+    }
+  },
+  {
+    "id": "wrestler-002",
+    "name": "Stone Adams",
+    "type": "wrestler",
+    "image": "https://i.pravatar.cc/150?img=12",
+    "starPower": 4.2,
+    "contract": {
+      "salary": 5000,
+      "expiresInWeeks": 26
+    },
+    "skills": {
+      "technical": 65,
+      "brawling": 90,
+      "aerial": 40,
+      "strongStyle": 82,
+      "lucha": 30,
+      "physical": 88,
+      "athleticism": 70,
+      "psychology": 85,
+      "microphone": 78,
+      "acting": 72
+    }
+  },
+  {
+    "id": "wrestler-003",
+    "name": "Sakura Miyamoto",
+    "type": "wrestler",
+    "image": "https://i.pravatar.cc/150?img=5",
+    "starPower": 2.8,
+    "contract": {
+      "salary": 1800,
+      "expiresInWeeks": 40
+    },
+    "skills": {
+      "technical": 85,
+      "brawling": 60,
+      "aerial": 70,
+      "strongStyle": 90,
+      "lucha": 45,
+      "physical": 65,
+      "athleticism": 78,
+      "psychology": 80,
+      "microphone": 50,
+      "acting": 48
+    }
+  },
+  {
+    "id": "wrestler-004",
+    "name": "The Phantom",
+    "type": "wrestler",
+    "image": null,
+    "starPower": 1.5,
+    "contract": {
+      "salary": 800,
+      "expiresInWeeks": 12
+    },
+    "skills": {
+      "technical": 55,
+      "brawling": 60,
+      "aerial": 50,
+      "strongStyle": 45,
+      "lucha": 40,
+      "physical": 58,
+      "athleticism": 62,
+      "psychology": 50,
+      "microphone": 40,
+      "acting": 38
+    }
+  },
+  {
+    "id": "wrestler-005",
+    "name": "Hurricane Mike",
+    "type": "wrestler",
+    "image": "https://i.pravatar.cc/150?img=52",
+    "starPower": 2.0,
+    "contract": {
+      "salary": 1200,
+      "expiresInWeeks": 20
+    },
+    "skills": {
+      "technical": 60,
+      "brawling": 55,
+      "aerial": 75,
+      "strongStyle": 50,
+      "lucha": 65,
+      "physical": 60,
+      "athleticism": 80,
+      "psychology": 58,
+      "microphone": 45,
+      "acting": 42
+    }
+  },
+  {
+    "id": "announcer-001",
+    "name": "Jimmy Calloway",
+    "type": "announcer",
+    "image": null,
+    "starPower": 1.0,
+    "contract": {
+      "salary": 600,
+      "expiresInWeeks": 52
+    },
+    "skills": {
+      "technical": 0,
+      "brawling": 0,
+      "aerial": 0,
+      "strongStyle": 0,
+      "lucha": 0,
+      "physical": 0,
+      "athleticism": 0,
+      "psychology": 40,
+      "microphone": 85,
+      "acting": 80
+    }
+  },
+  {
+    "id": "referee-001",
+    "name": "Ref Johnson",
+    "type": "referee",
+    "image": null,
+    "starPower": 0.2,
+    "contract": {
+      "salary": 400,
+      "expiresInWeeks": 52
+    },
+    "skills": {
+      "technical": 0,
+      "brawling": 0,
+      "aerial": 0,
+      "strongStyle": 0,
+      "lucha": 0,
+      "physical": 0,
+      "athleticism": 0,
+      "psychology": 60,
+      "microphone": 30,
+      "acting": 50
+    }
+  },
+  {
+    "id": "manager-001",
+    "name": "Don Corrado",
+    "type": "manager",
+    "image": null,
+    "starPower": 1.8,
+    "contract": {
+      "salary": 1000,
+      "expiresInWeeks": 52
+    },
+    "skills": {
+      "technical": 0,
+      "brawling": 0,
+      "aerial": 0,
+      "strongStyle": 0,
+      "lucha": 0,
+      "physical": 0,
+      "athleticism": 0,
+      "psychology": 70,
+      "microphone": 88,
+      "acting": 85
+    }
+  }
+]

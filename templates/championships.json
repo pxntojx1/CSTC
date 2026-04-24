@@ -1,0 +1,47 @@
+[
+  {
+    "id": "champ-world",
+    "name": "World Heavyweight Championship",
+    "image": null,
+    "type": "singles",
+    "prestigeLevel": 10,
+    "currentChampion": "wrestler-002",
+    "dateWon": "2025-01-15"
+  },
+  {
+    "id": "champ-tag",
+    "name": "World Tag Team Championship",
+    "image": null,
+    "type": "tag",
+    "prestigeLevel": 7,
+    "currentChampion": ["wrestler-001", "wrestler-005"],
+    "dateWon": "2025-02-01"
+  },
+  {
+    "id": "champ-trios",
+    "name": "Trios Championship",
+    "image": null,
+    "type": "trios",
+    "prestigeLevel": 5,
+    "currentChampion": null,
+    "dateWon": null
+  },
+  {
+    "id": "champ-womens",
+    "name": "Women's Championship",
+    "image": null,
+    "type": "singles",
+    "prestigeLevel": 8,
+    "currentChampion": "wrestler-003",
+    "dateWon": "2025-03-10"
+  },
+  {
+    "id": "champ-tv",
+    "name": "Television Championship",
+    "image": null,
+    "type": "singles",
+    "prestigeLevel": 4,
+    "currentChampion": null,
+    "dateWon": null
+  }
+]

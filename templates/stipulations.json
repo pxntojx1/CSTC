@@ -1,0 +1,92 @@
+[
+  {
+    "id": "stip-standard",
+    "name": "Standard Match",
+    "risk": 1,
+    "drawingPower": 3
+  },
+  {
+    "id": "stip-submission",
+    "name": "Submission Match",
+    "risk": 2,
+    "drawingPower": 5
+  },
+  {
+    "id": "stip-falls-count",
+    "name": "Falls Count Anywhere",
+    "risk": 5,
+    "drawingPower": 6
+  },
+  {
+    "id": "stip-ladder",
+    "name": "Ladder Match",
+    "risk": 7,
+    "drawingPower": 8
+  },
+  {
+    "id": "stip-steel-cage",
+    "name": "Steel Cage Match",
+    "risk": 6,
+    "drawingPower": 7
+  },
+  {
+    "id": "stip-hell-cell",
+    "name": "Hell in a Cell",
+    "risk": 9,
+    "drawingPower": 10
+  },
+  {
+    "id": "stip-tlc",
+    "name": "Tables, Ladders & Chairs",
+    "risk": 8,
+    "drawingPower": 9
+  },
+  {
+    "id": "stip-ironman",
+    "name": "Iron Man Match (30 min)",
+    "risk": 3,
+    "drawingPower": 7
+  },
+  {
+    "id": "stip-last-man",
+    "name": "Last Man Standing",
+    "risk": 6,
+    "drawingPower": 7
+  },
+  {
+    "id": "stip-street-fight",
+    "name": "Street Fight",
+    "risk": 5,
+    "drawingPower": 6
+  },
+  {
+    "id": "stip-lumberjack",
+    "name": "Lumberjack Match",
+    "risk": 2,
+    "drawingPower": 4
+  },
+  {
+    "id": "stip-no-dq",
+    "name": "No Disqualification",
+    "risk": 4,
+    "drawingPower": 5
+  },
+  {
+    "id": "stip-royal-rumble",
+    "name": "Battle Royal",
+    "risk": 3,
+    "drawingPower": 7
+  },
+  {
+    "id": "stip-strap",
+    "name": "Strap Match",
+    "risk": 4,
+    "drawingPower": 5
+  },
+  {
+    "id": "stip-tornado",
+    "name": "Tornado Tag",
+    "risk": 4,
+    "drawingPower": 6
+  }
+]
