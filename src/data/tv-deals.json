@@ -1,0 +1,72 @@
+[
+  {
+    "id": "deal-local-access",
+    "name": "Community Access Channel 7",
+    "broadcaster": "Public Access",
+    "type": "tv",
+    "minimumFollowers": 500,
+    "durationWeeks": 26,
+    "annualValue": -5200,
+    "description": "Pay for airtime on a local public access channel. Exposure but no income."
+  },
+  {
+    "id": "deal-youtube-basic",
+    "name": "YouTube Channel (Basic)",
+    "broadcaster": "YouTube",
+    "type": "youtube",
+    "minimumFollowers": 2000,
+    "durationWeeks": 52,
+    "annualValue": 4160,
+    "description": "Monetize your YouTube uploads. Ad revenue based on viewership."
+  },
+  {
+    "id": "deal-podcast",
+    "name": "Wrestling Universe Podcast",
+    "broadcaster": "Podcast Network",
+    "type": "podcast",
+    "minimumFollowers": 5000,
+    "durationWeeks": 52,
+    "annualValue": 10400,
+    "description": "Weekly podcast deal on a major wrestling network."
+  },
+  {
+    "id": "deal-streaming-indie",
+    "name": "IndieWrestling.tv",
+    "broadcaster": "IndieWrestling.tv",
+    "type": "streaming",
+    "minimumFollowers": 15000,
+    "durationWeeks": 52,
+    "annualValue": 26000,
+    "description": "Stream your events on the premier indie wrestling platform."
+  },
+  {
+    "id": "deal-regional-tv",
+    "name": "Sports South Network",
+    "broadcaster": "Sports South",
+    "type": "tv",
+    "minimumFollowers": 40000,
+    "durationWeeks": 52,
+    "annualValue": 104000,
+    "description": "Regional sports TV deal. Prime Saturday night slot."
+  },
+  {
+    "id": "deal-streaming-major",
+    "name": "FightStream Plus",
+    "broadcaster": "FightStream",
+    "type": "streaming",
+    "minimumFollowers": 100000,
+    "durationWeeks": 104,
+    "annualValue": 520000,
+    "description": "Major streaming platform with a 2-year exclusive deal."
+  },
+  {
+    "id": "deal-national-tv",
+    "name": "National Sports Network",
+    "broadcaster": "NSN",
+    "type": "tv",
+    "minimumFollowers": 500000,
+    "durationWeeks": 52,
+    "annualValue": 2600000,
+    "description": "Prime time national TV. The big leagues."
+  }
+]

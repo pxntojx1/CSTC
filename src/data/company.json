@@ -1,0 +1,12 @@
+{
+  "name": "My Wrestling Promotion",
+  "logo": null,
+  "funds": 250000,
+  "followers": 2000,
+  "hasTV": false,
+  "tvRating": 0,
+  "tvDealRevenue": 0,
+  "negativeFundsStreak": 0,
+  "isBankrupt": false,
+  "bankruptcyWeeksRemaining": 0
+}

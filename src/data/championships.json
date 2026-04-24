@@ -1,0 +1,42 @@
+[
+  {
+    "id": "champ-world",
+    "name": "World Heavyweight Championship",
+    "image": null,
+    "type": "singles",
+    "prestigeLevel": 10,
+    "currentChampion": null,
+    "dateWon": null,
+    "history": []
+  },
+  {
+    "id": "champ-tag",
+    "name": "World Tag Team Championship",
+    "image": null,
+    "type": "tag",
+    "prestigeLevel": 7,
+    "currentChampion": null,
+    "dateWon": null,
+    "history": []
+  },
+  {
+    "id": "champ-womens",
+    "name": "Women's Championship",
+    "image": null,
+    "type": "singles",
+    "prestigeLevel": 8,
+    "currentChampion": null,
+    "dateWon": null,
+    "history": []
+  },
+  {
+    "id": "champ-tv",
+    "name": "Television Championship",
+    "image": null,
+    "type": "singles",
+    "prestigeLevel": 5,
+    "currentChampion": null,
+    "dateWon": null,
+    "history": []
+  }
+]

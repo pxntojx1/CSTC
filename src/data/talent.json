@@ -1,0 +1,134 @@
+[
+  {
+    "id": "default-001",
+    "name": "El Toro Rojo",
+    "type": "wrestler",
+    "image": "https://i.pravatar.cc/150?img=11",
+    "starPower": 3,
+    "skills": {
+      "technical": 72, "brawling": 68, "aerial": 81, "strongStyle": 55,
+      "lucha": 88, "physical": 74, "athleticism": 85, "psychology": 70,
+      "microphone": 60, "acting": 55
+    }
+  },
+  {
+    "id": "default-002",
+    "name": "Stone Adams",
+    "type": "wrestler",
+    "image": "https://i.pravatar.cc/150?img=12",
+    "starPower": 4,
+    "skills": {
+      "technical": 65, "brawling": 90, "aerial": 40, "strongStyle": 82,
+      "lucha": 30, "physical": 88, "athleticism": 70, "psychology": 85,
+      "microphone": 78, "acting": 72
+    }
+  },
+  {
+    "id": "default-003",
+    "name": "Sakura Miyamoto",
+    "type": "wrestler",
+    "image": "https://i.pravatar.cc/150?img=5",
+    "starPower": 3,
+    "skills": {
+      "technical": 85, "brawling": 60, "aerial": 70, "strongStyle": 90,
+      "lucha": 45, "physical": 65, "athleticism": 78, "psychology": 80,
+      "microphone": 50, "acting": 48
+    }
+  },
+  {
+    "id": "default-004",
+    "name": "The Phantom",
+    "type": "wrestler",
+    "image": null,
+    "starPower": 1,
+    "skills": {
+      "technical": 55, "brawling": 60, "aerial": 50, "strongStyle": 45,
+      "lucha": 40, "physical": 58, "athleticism": 62, "psychology": 50,
+      "microphone": 40, "acting": 38
+    }
+  },
+  {
+    "id": "default-005",
+    "name": "Hurricane Mike",
+    "type": "wrestler",
+    "image": "https://i.pravatar.cc/150?img=52",
+    "starPower": 2,
+    "skills": {
+      "technical": 60, "brawling": 55, "aerial": 75, "strongStyle": 50,
+      "lucha": 65, "physical": 60, "athleticism": 80, "psychology": 58,
+      "microphone": 45, "acting": 42
+    }
+  },
+  {
+    "id": "default-006",
+    "name": "Big Hank Drayton",
+    "type": "wrestler",
+    "image": "https://i.pravatar.cc/150?img=15",
+    "starPower": 2,
+    "skills": {
+      "technical": 40, "brawling": 85, "aerial": 20, "strongStyle": 78,
+      "lucha": 15, "physical": 92, "athleticism": 55, "psychology": 65,
+      "microphone": 62, "acting": 58
+    }
+  },
+  {
+    "id": "default-007",
+    "name": "Neon Knight",
+    "type": "wrestler",
+    "image": "https://i.pravatar.cc/150?img=33",
+    "starPower": 2,
+    "skills": {
+      "technical": 70, "brawling": 50, "aerial": 82, "strongStyle": 40,
+      "lucha": 70, "physical": 55, "athleticism": 88, "psychology": 62,
+      "microphone": 55, "acting": 60
+    }
+  },
+  {
+    "id": "default-008",
+    "name": "La Reina Oscura",
+    "type": "wrestler",
+    "image": "https://i.pravatar.cc/150?img=47",
+    "starPower": 3,
+    "skills": {
+      "technical": 80, "brawling": 65, "aerial": 75, "strongStyle": 60,
+      "lucha": 82, "physical": 62, "athleticism": 80, "psychology": 75,
+      "microphone": 70, "acting": 68
+    }
+  },
+  {
+    "id": "default-009",
+    "name": "Don Corrado",
+    "type": "manager",
+    "image": null,
+    "starPower": 2,
+    "skills": {
+      "technical": 0, "brawling": 0, "aerial": 0, "strongStyle": 0,
+      "lucha": 0, "physical": 0, "athleticism": 0, "psychology": 70,
+      "microphone": 88, "acting": 85
+    }
+  },
+  {
+    "id": "default-010",
+    "name": "Jimmy Calloway",
+    "type": "announcer",
+    "image": null,
+    "starPower": 1,
+    "skills": {
+      "technical": 0, "brawling": 0, "aerial": 0, "strongStyle": 0,
+      "lucha": 0, "physical": 0, "athleticism": 0, "psychology": 40,
+      "microphone": 85, "acting": 80
+    }
+  },
+  {
+    "id": "default-011",
+    "name": "Ref Johnson",
+    "type": "referee",
+    "image": null,
+    "starPower": 0,
+    "skills": {
+      "technical": 0, "brawling": 0, "aerial": 0, "strongStyle": 0,
+      "lucha": 0, "physical": 0, "athleticism": 0, "psychology": 60,
+      "microphone": 30, "acting": 50
+    }
+  }
+]

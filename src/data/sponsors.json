@@ -1,0 +1,58 @@
+[
+  {
+    "id": "sponsor-local-gym",
+    "name": "IronClad Gyms",
+    "logo": null,
+    "minimumFollowers": 1000,
+    "annualPayment": 5200,
+    "description": "Local gym chain looking to reach wrestling fans."
+  },
+  {
+    "id": "sponsor-energy-drink",
+    "name": "Voltage Energy",
+    "logo": null,
+    "minimumFollowers": 10000,
+    "annualPayment": 26000,
+    "description": "Energy drink brand with a hardcore sports image."
+  },
+  {
+    "id": "sponsor-apparel",
+    "name": "CombatWear",
+    "logo": null,
+    "minimumFollowers": 25000,
+    "annualPayment": 52000,
+    "description": "Premium sportswear for serious athletes and fans."
+  },
+  {
+    "id": "sponsor-insurance",
+    "name": "SafeGuard Insurance",
+    "logo": null,
+    "minimumFollowers": 50000,
+    "annualPayment": 104000,
+    "description": "Sports and entertainment insurance provider."
+  },
+  {
+    "id": "sponsor-auto",
+    "name": "TurboAuto Dealerships",
+    "logo": null,
+    "minimumFollowers": 100000,
+    "annualPayment": 260000,
+    "description": "National car dealership network targeting sports audiences."
+  },
+  {
+    "id": "sponsor-beer",
+    "name": "Grizzly Bear Brewing",
+    "logo": null,
+    "minimumFollowers": 200000,
+    "annualPayment": 520000,
+    "description": "Craft beer brand with a rugged, working-class identity."
+  },
+  {
+    "id": "sponsor-tech",
+    "name": "NexCore Tech",
+    "logo": null,
+    "minimumFollowers": 500000,
+    "annualPayment": 1040000,
+    "description": "Consumer electronics brand seeking mass-market exposure."
+  }
+]
